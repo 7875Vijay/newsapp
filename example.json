@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mary Gilbert, Allison Chinchar",
+            "title": "Powerful Hurricane Lee will create dangerous conditions along the East Coast, regardless of its uncertain final track - CNN",
+            "description": "Category 3 Hurricane Lee remains hundreds of miles east of the Caribbean early Saturday, yet forecasters say the storm’s effects may have an impact on the US Atlantic seaboard as early as this weekend.",
+            "url": "https://www.cnn.com/2023/09/09/weather/hurricane-lee-path-saturday-climate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230908120940-huirricane-lee-noaa-sat-image.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-09T09:05:00Z",
+            "content": "Category 3 Hurricane Lee remains hundreds of miles east of the Caribbean early Saturday, yet forecasters say the storms effects may have an impact on the US Atlantic seaboard as early as this weekend… [+5648 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Landon Mion",
+            "title": "New Mexico governor temporarily suspends open, concealed carry across Albuquerque: 'Violence at every turn' - Fox News",
+            "description": "New Mexico Gov. Michelle Lujan Grisham issued an emergency order Sept. 8 suspending the right to carry firearms in public across Albuquerque and Bernalillo County for 30 days.",
+            "url": "https://www.foxnews.com/politics/new-mexico-governor-temporarily-suspends-open-concealed-carry-albuquerque-violence-every-turn",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Michelle-Lujan-Grisham.jpg",
+            "publishedAt": "2023-09-09T07:00:00Z",
+            "content": "New Mexico Gov. Michelle Lujan Grisham, a Democrat, issued an emergency order on Friday suspending the right to carry guns in public across Albuquerque and the surrounding Bernalillo County for at le… [+4096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Anchorage Daily News"
+            },
+            "author": "Alex DeMarban",
+            "title": "Kroger and Albertsons propose selling Carrs Safeway grocery stores in Alaska as part of $24.6 billion merger plan - Anchorage Daily News",
+            "description": "The companies said they have an agreement for the sale with C&S Wholesale Grocers, operator of Grand Union and Piggly Wiggly stores in the Lower 48.",
+            "url": "https://www.adn.com/business-economy/2023/09/08/kroger-and-albertsons-propose-selling-14-carrs-safeway-grocery-stores-in-alaska-as-part-of-19-billion-divestiture-plan/",
+            "urlToImage": "https://www.adn.com/resizer//YFwSVobQ1dXCMkR56E7UZVRbzj4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/RSA2ZEGAXFB77J526PEU4H6B5E.JPG",
+            "publishedAt": "2023-09-09T01:28:24Z",
+            "content": "Carrs Safeway in Midtown Anchorage on Sunday, Nov. 20, 2022. (Bill Roth / ADN) \r\nThe nations two largest grocery store chains announced a $1.9 billion divestiture plan on Friday that includes the sal… [+8821 chars]"
+        }
+    ]
+}
